@@ -121,11 +121,18 @@ input{
 }
 
 .contact_details{
-    height: 350px;
+    height: 450px;
+    padding-top: 85px;
+    padding-left: 10px;
+}
+.contact_details h1{
+
+    font-size: 55px;
+
 }
 
 .location{
-    height: 350px;
+    height: 450px;
     background-color: rgb(118, 45, 45);
 }
 
@@ -148,6 +155,14 @@ input{
 .subscribe p{
     text-align: center;
     padding-top: 70px;
+}
+
+.location{
+    height: 300px;
+}
+
+.location img{
+    height: 400px;
 }
 
 footer{
