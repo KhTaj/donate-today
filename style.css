@@ -35,7 +35,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 .bannar h1{
-    font-size: 70px;
+    font-size: 100px;
 }
 
 .bannar p{
@@ -185,4 +185,9 @@ footer{
     color: white;
     text-align: center;
     padding-top: 35px;
+}
+
+footer h2{
+    color: tomato;
+    font-size: 30px;
 }
