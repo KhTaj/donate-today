@@ -89,6 +89,9 @@ input{
     width: 300px;
     margin-left: 120px;
     margin-left: 10px;
+    border-radius: 8px;
+    padding-top: 55px;
+    padding-left: 20px;
 }
 
 .dnt_card1{
