@@ -44,4 +44,50 @@ font-family: 'Roboto', sans-serif;
 
 .donate_today{
     height: 650px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.dnt_btn{
+    text-decoration: none;
+    color: gray;
+    border-radius: 5px;
+    
+    padding: 45px 35px;
+    background-color: rgb(251, 236, 236);
+    margin: 0px 10px;
+    
+}
+
+.dnt_amount{
+    padding-top: 100px;
+}
+
+.dnt_amount a{
+    font-weight: 600;
+}
+
+ a:hover{
+    background-color: rgb(240, 184, 174);
+    border: 1px solid tomato;
+    color: tomato;
+}
+
+input{
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+     box-sizing: border-box;
+}
+
+.other_amount{
+    padding-top: 100px;
+}
+
+footer{
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 35px;
 }
