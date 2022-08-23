@@ -9,7 +9,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 .bannar{
-    background-image: url(images/donation0.jpg);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -18,7 +18,7 @@ font-family: 'Roboto', sans-serif;
 #bannar_text{
     padding-top: 200px;
     text-align: center;
-    color: tomato;
+    color:white;
     
 }
 
@@ -83,6 +83,37 @@ input{
 .other_amount{
     padding-top: 100px;
 }
+
+.card{
+    height: 350px;
+    width: 300px;
+    margin-left: 120px;
+    margin-left: 10px;
+}
+
+.dnt_card1{
+    background-color: rgb(204, 239, 252);
+    width: 30%;
+
+}
+.dnt_card2{
+    background-color: rgb(227, 245, 181);
+    width: 30%;
+}
+.dnt_card3{
+    background-color: rgb(170, 194, 91);
+    width: 30%;
+}
+
+.flex_box{
+    display: flex;
+    
+    margin: 40px 0px;
+    margin-left: 100px;
+    padding: auto;
+}
+
+
 
 footer{
     height: 150px;
