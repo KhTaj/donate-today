@@ -3,6 +3,45 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
 .bannar{
     background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+#bannar_text{
+    padding-top: 200px;
+    text-align: center;
+    color: tomato;
+    
+}
+
+.button{
+    padding: 18px 30px;
+    color: white;
+    background-color: tomato;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+
+.bannar h1{
+    font-size: 70px;
+}
+
+.bannar p{
+    padding-top: 35px;
+}
+
+.donate_today{
+    height: 650px;
 }
