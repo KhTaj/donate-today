@@ -123,12 +123,14 @@ input{
 .contact_details{
     margin-top: 25px;
     height: 450px;
-    padding-top: 85px;
+    padding-top: 65px;
     padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .contact_details h1{
 
-    font-size: 42px;
+    font-size: 36px;
     padding-bottom: 10px;
 
 }
