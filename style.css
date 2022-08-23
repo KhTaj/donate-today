@@ -189,5 +189,6 @@ footer{
 
 footer h2{
     color: tomato;
-    font-size: 30px;
+    font-size: 35px;
+    padding-bottom: 18px;
 }
