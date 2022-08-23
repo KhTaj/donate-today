@@ -152,12 +152,12 @@ input{
 }
 
 .subscribe_btn{
-    height: 44px;
+    height: 43px;
     background-color: tomato;
 
 }
 
-.subscribe p{
+.subscribe form{
     text-align: center;
     padding-top: 70px;
 }
