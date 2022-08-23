@@ -116,7 +116,39 @@ input{
     padding: auto;
 }
 
+.contact_us{
+    display: flex;
+}
 
+.contact_details{
+    height: 350px;
+}
+
+.location{
+    height: 350px;
+    background-color: rgb(118, 45, 45);
+}
+
+
+.subscribe{
+    
+    height: 200px;
+    width: 800px;
+    background-color: rgb(255, 255, 176);
+    margin-bottom: 50px;
+    margin-left: 310px;
+}
+
+.subscribe_btn{
+    height: 44px;
+    background-color: tomato;
+
+}
+
+.subscribe p{
+    text-align: center;
+    padding-top: 70px;
+}
 
 footer{
     height: 150px;
