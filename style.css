@@ -121,17 +121,21 @@ input{
 }
 
 .contact_details{
+    margin-top: 25px;
     height: 450px;
     padding-top: 85px;
     padding-left: 10px;
 }
 .contact_details h1{
 
-    font-size: 55px;
+    font-size: 42px;
+    padding-bottom: 10px;
 
 }
 
 .location{
+    margin-top: 25px;
+    
     height: 450px;
     background-color: rgb(118, 45, 45);
 }
@@ -164,6 +168,10 @@ input{
 
 .location img{
     height: 400px;
+}
+
+.font_45px{
+    font-size: 45px;
 }
 
 footer{
